@@ -1,0 +1,32 @@
+E:\1X\VS文件夹\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\1X\VS文件夹\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+E:\1X\VS文件夹\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\1X\VS文件夹\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\1X\VS文件夹\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\1X\VS文件夹\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Liurunxin\Documents\WeChat Files\wxid_5okhsd2k3k9n22\FileStorage\File\2023-06\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Liurunxin\Documents\WeChat Files\wxid_5okhsd2k3k9n22\FileStorage\File\2023-06\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Liurunxin\Documents\WeChat Files\wxid_5okhsd2k3k9n22\FileStorage\File\2023-06\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Liurunxin\Documents\WeChat Files\wxid_5okhsd2k3k9n22\FileStorage\File\2023-06\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Liurunxin\Documents\WeChat Files\wxid_5okhsd2k3k9n22\FileStorage\File\2023-06\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Liurunxin\Documents\WeChat Files\wxid_5okhsd2k3k9n22\FileStorage\File\2023-06\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Liurunxin\Documents\WeChat Files\wxid_5okhsd2k3k9n22\FileStorage\File\2023-06\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Liurunxin\Documents\WeChat Files\wxid_5okhsd2k3k9n22\FileStorage\File\2023-06\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Liurunxin\Documents\WeChat Files\wxid_5okhsd2k3k9n22\FileStorage\File\2023-06\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Liurunxin\Documents\WeChat Files\wxid_5okhsd2k3k9n22\FileStorage\File\2023-06\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Liurunxin\Documents\WeChat Files\wxid_5okhsd2k3k9n22\FileStorage\File\2023-06\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Lenovo\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Lenovo\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Lenovo\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Lenovo\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Lenovo\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Lenovo\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.log.resources
+C:\Users\Lenovo\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Add1.resources
+C:\Users\Lenovo\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.choice.resources
+C:\Users\Lenovo\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.sign.resources
+C:\Users\Lenovo\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.petHous.resources
